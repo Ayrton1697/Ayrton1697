@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayrton Steffich
-- 👀 I’m interested in laravel and data science!
-- 🌱 I’m currently learning vue JS and advanced python
-- 💞️ I’m looking to collaborate on data science projects!
+- 👀 I’m interested in software engineering, ML and devops!
+- 🌱 I’m currently learning C++, Go and computer networking.
+- 💞️ I’m looking to collaborate on ML projects!
 - 📫 How to reach me ayrton.steffich@gmail.com
 
 <!---
