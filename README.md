@@ -4,7 +4,7 @@
 - 📫 How to reach me ayrton.steffich@gmail.com
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,php,py,vue,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,vue,react,py,node,php,aws)](https://skillicons.dev)
 
 <!---
 Ayrton1697/Ayrton1697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
