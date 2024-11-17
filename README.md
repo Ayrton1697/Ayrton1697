@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Ayrton Steffich
 - 👀 I’m interested in software engineering, ML and devops!
 - 🌱 I’m currently learning C++, Go and computer networking.
-- 💞️ I’m looking to collaborate on ML projects!
 - 📫 How to reach me ayrton.steffich@gmail.com
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts, html,css,angular,php,py,vue,aws)](https://skillicons.dev)
 
 <!---
 Ayrton1697/Ayrton1697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
