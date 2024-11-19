@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning C++, Go and computer networking.
 - 📫 How to reach me ayrton.steffich@gmail.com
 
-My skills: \n
+My skills: 
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,vue,py,flask,nodejs,php,laravel,aws,docker)](https://skillicons.dev)
 
-Currently learning: \n
+Currently learning:
+
 [![My Skills](https://skillicons.dev/icons?i=react,cpp)](https://skillicons.dev)
 
 
