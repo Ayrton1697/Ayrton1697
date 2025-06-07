@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ayrton Steffich, a full stack dev and data engineer
-- 👀 I’m interested in software engineering, ML and devops!
-- 🌱 I’m currently learning C++, ASM and computer networking.
+- 👋 I’m Ayrton Steffich, swe
 - 📫 How to reach me ayrton.steffich@gmail.com
 
 My skills: 
