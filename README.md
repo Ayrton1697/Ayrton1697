@@ -3,7 +3,7 @@
 
 My skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,vue,py,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,vue,py,flask,nodejs,php)](https://skillicons.dev)
 
 Currently learning:
 
