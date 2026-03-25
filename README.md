@@ -7,7 +7,7 @@ My skills:
 
 Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=react,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 
 <!---
